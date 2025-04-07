@@ -1,0 +1,6 @@
+LocationID	Description	DangerLevel
+LOC01	Entrance Hall	Low
+LOC02	Altar Room	Medium
+LOC03	Treasury	High
+LOC04	Sacrificial Chamber	Very High
+LOC05	Flooded Passage	Medium
